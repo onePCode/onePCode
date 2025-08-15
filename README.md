@@ -14,7 +14,7 @@
 ### Tech Stack (currently learning)
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS3-639?logo=css&logoColor=fff">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black">
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff">
   <img src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=black">
