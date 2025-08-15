@@ -1,4 +1,3 @@
-<!-- Banner atau header animasi -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=24&color=A020F0&center=true&vCenter=true&width=500&lines=Hello,+it's+onePC;Web+Dev+and+CyberSec+Enthusiast" alt="Typing SVG">
 
