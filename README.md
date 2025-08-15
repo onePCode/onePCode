@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=24&color=A020F0&center=true&vCenter=true&width=500&lines=Web+Dev+and+CyberSec+Enthusiast" alt="Typing SVG">
 
----
+
 
 ### About Me
 -  Newbie in tech but passionate about growth  
@@ -10,7 +10,7 @@
 -  Exploring terminal basics (Cygwin)  
 -  Goal: Create useful projects and contribute to open source  
 
----
+
 
 ### Tech Stack (learning)
 <p align="center">
@@ -21,14 +21,12 @@
   <img src="https://img.shields.io/badge/Cygwin-000000?logo=gnu-bash&logoColor=white">
 </p>
 
----
 
-###  GitHub Stats
+
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=onePCode&theme=radical" height="165">
 </p>
 
----
 
 ### Currently Learning
 - Frontend basics (HTML, CSS, JS)
