@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&color=A020F0&center=true&vCenter=true&width=500&lines=Hello,+it's+onePC;Web+Dev+and+CyberSec+Enthusiast" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&color=A020F0&center=true&vCenter=true&width=500&lines=Web+Dev+and+CyberSec+Enthusiast" alt="Typing SVG">
 
 ---
 
@@ -25,7 +25,6 @@
 
 ###  GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=onePCode&show_icons=true&theme=radical" height="165">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=onePCode&theme=radical" height="165">
 </p>
 
