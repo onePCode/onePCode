@@ -26,6 +26,9 @@
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=onePCode&theme=vision-friendly-dark" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=onePCode&theme=vision-friendly-dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact">
 </p>
+
+
 
 
