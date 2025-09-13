@@ -1,17 +1,15 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&color=A020F0&center=true&vCenter=true&width=500&lines=Web+Dev+and+CyberSec+Enthusiast" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&color=A020F0&center=true&vCenter=true&width=500&lines=Tech+Enthusiast" alt="Typing SVG">
 
 
 
 ### About Me
--  Newbie in tech but passionate about learning   
--  Exploring *HTML*, *CSS*, *JavaScript*, *python* and *C programming*  
--  Exploring terminal basics (Cygwin)  
+-  Newbie in tech but passionate about learning
 -  Goal: Create useful projects and contribute to open source  
 
 ---
 
-### Tech Stack (currently learning)
+### Tech Stack 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS3-639?logo=css&logoColor=fff">
