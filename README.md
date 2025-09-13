@@ -1,10 +1,3 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&color=A020F0&center=true&vCenter=true&width=500&lines=Tech+Enthusiast" alt="Typing SVG">
-
-
-
-### About Me
--  Newbie in tech but passionate about learning
 -  Goal: Create useful projects and contribute to open source  
 
 
